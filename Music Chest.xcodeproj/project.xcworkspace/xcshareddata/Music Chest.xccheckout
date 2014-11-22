@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2057D50C-AFA7-47D5-B22B-7AA99EC8C0D7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Music Chest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6DDFC99471E676A04D19475C32151760CF33DACC</key>
+		<string>https://github.com/MCurtner/Music-Chest.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Music Chest.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6DDFC99471E676A04D19475C32151760CF33DACC</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/MCurtner/Music-Chest.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6DDFC99471E676A04D19475C32151760CF33DACC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6DDFC99471E676A04D19475C32151760CF33DACC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Music-Chest</string>
+		</dict>
+	</array>
+</dict>
+</plist>
